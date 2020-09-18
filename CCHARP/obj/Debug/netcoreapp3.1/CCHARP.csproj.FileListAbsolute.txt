@@ -1,0 +1,13 @@
+C:\Work_murmansk\Quartus\CCHARP\bin\Debug\netcoreapp3.1\CCHARP.exe
+C:\Work_murmansk\Quartus\CCHARP\bin\Debug\netcoreapp3.1\CCHARP.deps.json
+C:\Work_murmansk\Quartus\CCHARP\bin\Debug\netcoreapp3.1\CCHARP.runtimeconfig.json
+C:\Work_murmansk\Quartus\CCHARP\bin\Debug\netcoreapp3.1\CCHARP.runtimeconfig.dev.json
+C:\Work_murmansk\Quartus\CCHARP\bin\Debug\netcoreapp3.1\CCHARP.dll
+C:\Work_murmansk\Quartus\CCHARP\bin\Debug\netcoreapp3.1\CCHARP.pdb
+C:\Work_murmansk\Quartus\CCHARP\obj\Debug\netcoreapp3.1\CCHARP.csproj.CoreCompileInputs.cache
+C:\Work_murmansk\Quartus\CCHARP\obj\Debug\netcoreapp3.1\CCHARP.AssemblyInfoInputs.cache
+C:\Work_murmansk\Quartus\CCHARP\obj\Debug\netcoreapp3.1\CCHARP.AssemblyInfo.cs
+C:\Work_murmansk\Quartus\CCHARP\obj\Debug\netcoreapp3.1\CCHARP.dll
+C:\Work_murmansk\Quartus\CCHARP\obj\Debug\netcoreapp3.1\CCHARP.pdb
+C:\Work_murmansk\Quartus\CCHARP\obj\Debug\netcoreapp3.1\CCHARP.genruntimeconfig.cache
+C:\Work_murmansk\Quartus\CCHARP\obj\Debug\netcoreapp3.1\CCHARP.csprojAssemblyReference.cache
